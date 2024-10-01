@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "Basic Dog Collar"
+    },
+    {
+        "id": 2,
+        "title": "Food Dispenser"
+    },
+    {
+        "id": 3,
+        "title": "Dual Bowls Diner"
+    },
+    {
+        "id": 4,
+        "title": "Canine Creek Dog Food"
+    },
+    {
+        "id": 5,
+        "title": "PurePet Dog Food"
+    },
+    {
+        "id": 6,
+        "title": "Dog Sweater -Small"
+    },
+    {
+        "id": 7,
+        "title": "Dog Sweater -Adult"
+    },
+    {
+        "id": 8,
+        "title": "Dog Bed with Pillow"
+    },
+    {
+        "id": 9,
+        "title": "Shampoo"
+    },
+    {
+        "id" : 10,
+        "title": "GiGwi Ball Originals For Dogs - Pack of 3"
+    },
+    {
+        "id" : 11,
+        "title": "Wipes"   
+    },
+    {
+        "id" : 12,
+        "title": "Pedigree Dog Food -3Kg"
+    },
+    {
+        "id" : 13,
+        "title": "Dry Shampoo"
+    }
+]
